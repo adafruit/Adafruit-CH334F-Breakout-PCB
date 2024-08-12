@@ -1,4 +1,4 @@
-## Adafruit CH334F Mini 4-Port USB Hub Breakout PCB
+## Adafruit CH334F Mini USB Hub Breakouts PCB
 
 <a href="http://www.adafruit.com/products/5997"><img src="assets/5997.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
