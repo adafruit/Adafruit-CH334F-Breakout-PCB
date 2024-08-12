@@ -10,6 +10,7 @@ PCB files for the Adafruit CH334F Mini USB Hub Breakouts
 
 Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/5997
+* https://www.adafruit.com/product/5999
 
 ### Description
 
