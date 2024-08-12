@@ -2,8 +2,11 @@
 
 <a href="http://www.adafruit.com/products/5997"><img src="assets/5997.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
+<br>
+<a href="http://www.adafruit.com/products/5999"><img src="assets/5999-00.jpg?raw=true" width="500px"><br/>
+Click here to purchase one from the Adafruit shop</a>
 
-PCB files for the Adafruit CH334F Mini 4-Port USB Hub Breakout. 
+PCB files for the Adafruit CH334F Mini USB Hub Breakouts
 
 Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/5997

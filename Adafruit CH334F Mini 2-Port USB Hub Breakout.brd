@@ -242,6 +242,11 @@
 <text x="16.1925" y="5.588" size="1.778" layer="173" ratio="15" rot="MR0">Mini USB
 2-Port
 Hub</text>
+<dimension x1="0" y1="22.86" x2="0" y2="0" x3="-5.969" y3="11.43" textsize="1.778" layer="47" dtype="vertical" unit="inch"/>
+<dimension x1="2.54" y1="2.54" x2="2.54" y2="20.32" x3="-1.9685" y3="11.43" textsize="1.778" layer="47" dtype="vertical" unit="inch"/>
+<dimension x1="20.32" y1="22.86" x2="0" y2="22.86" x3="10.16" y3="29.718" textsize="1.778" layer="47" dtype="vertical" unit="inch"/>
+<dimension x1="2.54" y1="20.32" x2="17.78" y2="20.32" x3="10.16" y3="25.7175" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
+<dimension x1="16.51" y1="2.54" x2="19.05" y2="2.54" x3="17.78" y3="-2.286" textsize="1.778" layer="47" dtype="horizontal" unit="inch"/>
 </plain>
 <libraries>
 <library name="microbuilder">
